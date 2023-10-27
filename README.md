@@ -39,6 +39,6 @@ My Free Mybb Plugins
  <p><h2>How to send an order?</h2></p>
 
 <p><strong>Telegram : @MostafaShiraali</strong></p>
-<p><strong>Email : mr.mostafa.shiraali@gmail.com</strong></p>
+<p><strong>Email : mr.m.shiraali@gmail.com</strong></p>
 <p><strong>Discord : MostafaShiraali#7754</strong></p>
 <p><strong>Payment method : Paypal,CryptoCurrency</strong></p>
